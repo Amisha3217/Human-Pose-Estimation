@@ -7,7 +7,7 @@ Human pose estimation is a deep-rooted problem in computer vision that has expos
 #TEAM MEMBERS:
 
 Amisha Srivastava(CB.EN.P2AIE21004)
-Gayathri K.      (CB.EN.P2AIE21004)
+Gayathri K.      (CB.EN.P2AIE21013)
 
 Under the Supervision of Dr.SenthilKumar T
 
