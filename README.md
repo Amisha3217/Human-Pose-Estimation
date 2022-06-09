@@ -24,4 +24,5 @@ Found 866 images belonging to 5 classes.
 Found 92 images belonging to 5 classes.
 
 https://www.kaggle.com/code/aayushmishra1512/yoga-pose-detection/data
+
 <img width="347" alt="image" src="https://user-images.githubusercontent.com/97423860/172786033-0e270d1a-3003-4a32-a616-0cddd5d41c6a.png">
